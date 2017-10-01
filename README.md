@@ -1,5 +1,13 @@
+### Requirement
+- node 8 
+
+---
 ### install 
+```
 npm i 
+```
 
 ### run
-npm start
+```
+npm run start
+```

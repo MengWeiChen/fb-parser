@@ -1,3 +1,19 @@
+2017-09-15 45 https://www.facebook.com/cool3c.tw/posts/1482332215194280
+2017-09-15 24 https://www.facebook.com/cool3c.tw/posts/1482277371866431
+2017-09-15 40 https://www.facebook.com/cool3c.tw/posts/1482278385199663
+2017-09-15 24 https://www.facebook.com/cool3c.tw/posts/1482360925191409
+2017-09-15 15 https://www.facebook.com/cool3c.tw/posts/1482262071867961
+2017-09-15 61 https://www.facebook.com/cool3c.tw/posts/1482225665204935
+2017-09-15 37 https://www.facebook.com/cool3c.tw/posts/1482292988531536
+2017-09-15 39 https://www.facebook.com/cool3c.tw/posts/1482206878540147
+2017-09-15 25 https://www.facebook.com/cool3c.tw/posts/1481370328623802
+2017-09-15 370 https://www.facebook.com/cool3c.tw/posts/1482224431871725
+2017-09-15 13 https://www.facebook.com/cool3c.tw/posts/1482184151875753
+2017-09-15 121 https://www.facebook.com/cool3c.tw/posts/1482115595215942
+2017-09-15 18 https://www.facebook.com/cool3c.tw/posts/1482158225211679
+2017-09-15 40 https://www.facebook.com/cool3c.tw/posts/1481562081937960
+2017-09-15 16 https://www.facebook.com/cool3c.tw/posts/1481540455273456
+2017-09-15 53 https://www.facebook.com/cool3c.tw/posts/1481496755277826
 2017-09-14 186 https://www.facebook.com/cool3c.tw/posts/1481651055262396
 2017-09-14 66 https://www.facebook.com/cool3c.tw/videos/1481273708633464/
 2017-09-14 39 https://www.facebook.com/cool3c.tw/posts/1481536261940542
@@ -36,6 +52,7 @@
 2017-09-12 240 https://www.facebook.com/cool3c.tw/posts/1480109708749864
 2017-09-12 469 https://www.facebook.com/cool3c.tw/posts/1480170355410466
 2017-09-12 431 https://www.facebook.com/cool3c.tw/posts/1480156465411855
+2017-09-12 3 https://www.facebook.com/cool3c.tw/posts/1480134725414029
 2017-09-12 335 https://www.facebook.com/cool3c.tw/posts/1480086738752161
 2017-09-12 275 https://www.facebook.com/cool3c.tw/posts/1480045762089592
 2017-09-12 340 https://www.facebook.com/cool3c.tw/posts/1480017915425710
@@ -76,8 +93,6 @@
 2017-09-11 39 https://www.facebook.com/cool3c.tw/posts/1477422212351947
 2017-09-10 41 https://www.facebook.com/cool3c.tw/videos/1989749564372336/
 2017-09-10 39 https://www.facebook.com/cool3c.tw/posts/1477862932307875
-2017-09-10 100 https://www.facebook.com/cool3c.tw/posts/1476902565737245
-2017-09-10 72 https://www.facebook.com/cool3c.tw/posts/1477419802352188
 2017-09-09 43 https://www.facebook.com/cool3c.tw/posts/1475963972497771
 2017-09-09 97 https://www.facebook.com/cool3c.tw/posts/1474331905994311
 2017-09-08 120 https://www.facebook.com/cool3c.tw/posts/1475868149174020
