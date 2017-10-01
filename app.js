@@ -9,8 +9,7 @@ const fs = require('fs');
 
 const run = async () =>{
   await nightmare.goto('https://www.facebook.com/cool3c.tw/?ref=br_rs');
-
-
+  
   let dataList = [];
   while(true){
     await scrollDown(nightmare);
@@ -32,7 +31,7 @@ const run = async () =>{
       moment.utc(data.dateRaw, 'X').isAfter('2017-08-31') &&
       moment.utc(data.dateRaw, 'X').isBefore('2017-09-16')
     )
-    .map((data) => {
+    .forEach((data) => {
       try{
         let like = 0;
         const likeMacher = data.likeString.match(/ ([0-9]+) /i);
@@ -46,11 +45,8 @@ const run = async () =>{
         const url = 'https://www.facebook.com'+data.path;
 
         logger.write(`${date} ${like} ${url}\n`);
-
-        return { date, url, like }
       }catch(e){
         console.log(e);
-        return {}
       }
     })
   await nightmare.end();
@@ -88,12 +84,13 @@ const getContent = async (nightmare) => {
       
       const likeString = content.querySelector('.UFILikeSentenceText').textContent;
       
-      res.push({ path:path, likeString:likeString, dateRaw:dateRaw });
+      res.push({ path, likeString, dateRaw });
     })
     
     return res
   });
 }
+
 run();
 
 /*
