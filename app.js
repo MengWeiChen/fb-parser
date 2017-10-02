@@ -54,23 +54,18 @@ const run = async () =>{
 }
 
 const scrollDown = async (nightmare) => {
-
-  const currentHeight = await nightmare.evaluate(function() {
-    var scrolls = document.querySelectorAll('body');
-    return scrolls[0].scrollHeight;
-  });
-
-  await nightmare.evaluate(function(currentHeight) {
-    var body = document.querySelector('body');
+  await nightmare.evaluate(() => {
+    const body = document.querySelector('body');
+    const currentHeight = body.scrollHeight;
     body.scrollTop = currentHeight;
-  }, currentHeight);
+  });
 }
 
 
 const getContent = async (nightmare) => {
   return await nightmare.evaluate(function() {
-    var res = []
-    var data = document.querySelectorAll('.fbUserStory');
+    const res = []
+    const data = document.querySelectorAll('.fbUserStory');
     if (!data) return[];
     data.forEach((content) => {
       const path = content.querySelector('.timestampContent')
